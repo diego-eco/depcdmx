@@ -14,7 +14,7 @@ import os
 
 # Vars
 _root = 'https://www.inmuebles24.com/'
-_state = 'nuevo-leon'
+_state = 'ciudad-de-mexico'
 _operation = 'venta'
 _base_url = _root + "inmuebles-en-" + _operation + "-en-" + _state + "-pagina-{}.html"
 user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36"
